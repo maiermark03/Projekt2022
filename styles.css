@@ -2,7 +2,7 @@ body {
     font-family: arial;
     font-size: 100%;
     color: #050404;
-    background: url('axial.jpg');
+    background: url('picture/axial.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: 100% 100%;
@@ -12,7 +12,7 @@ p{
     color: rgb(15, 12, 7);
 }
 div#wapper{
-    background: url('kp.jpg');
+    background: url('picture/kp.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: 100% 100%;
