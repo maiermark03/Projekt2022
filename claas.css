@@ -14,15 +14,13 @@ div#werni{
     background: url('picture/Claaslogo.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
-}
-td{
-    padding: 100px;
+
 }
 
 div#tkrt{
     background: url('picture/tkrt.jpg');
     background-repeat: no-repeat;
-
+    
     background-size: 100% 100%;
 
 }
