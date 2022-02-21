@@ -19,11 +19,15 @@ div#tkrt{
     background: url('picture/ktrt.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
+    background-size: 100% 100%;
+    padding: 10%;
 }
 div#kmbn{
     background: url('picture/kmbn.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
+    background-size: 100% 100%;
+    padding: 10%;
 }
 h3{
 
