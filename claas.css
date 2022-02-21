@@ -16,18 +16,18 @@ div#werni{
     background-attachment: fixed;
 }
 div#tkrt{
-    background: url('picture/ktrt.jpg');
+    background: url('picture/tkrt.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: 100% 100%;
-    padding: 10%;
+    
 }
 div#kmbn{
     background: url('picture/kmbn.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: 100% 100%;
-    padding: 10%;
+    
 }
 h3{
 
