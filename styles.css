@@ -80,3 +80,7 @@ a.nav-item.dropdown{
     background: white;
     padding-bottom: 5px;
 }
+.nav-pills{
+    background: snow;
+    color: black;
+}
