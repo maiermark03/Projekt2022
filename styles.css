@@ -72,6 +72,7 @@ a.nav-link.dropdown-toggle{
     font-size: 80%;
     font-weight: bold;
     background: grey;
+    background-color: grey;
     padding-bottom: 5px;
 }
 a.nav-item.dropdown{
