@@ -82,5 +82,6 @@ a.nav-item.dropdown{
 }
 .nav-pills{
     background: snow;
-    color: black;
+    background-attachment: fixed;
+    font-weight: bold;
 }
