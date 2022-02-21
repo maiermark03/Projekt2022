@@ -22,6 +22,7 @@ header{
     font-size: 360%;
     font-weight: bold;
     font-family: "trecbuchet MS";
+    text-align: center;
     text-shadow: 2px 2px 2px #24630be0;
     color: rgb(248, 250, 248);
     background-color: #288825;
@@ -31,7 +32,7 @@ h2{
     background-color: rgba(61, 122, 71, 0.623);
 }
 h3{
-    color: rgb(24, 104, 42);
+    color: #b9eea4e0;
     background-color: rgba(80, 151, 92, 0.356);
 }
 p#winro{
@@ -70,7 +71,7 @@ ul{
 a.nav-link.dropdown-toggle{
     color: black;
     font-size: 100%;
-    font-weight: bold;
+    font-weight: bolder;
     background: #b9eea4e0;
 }
 a.nav-item.dropdown{
