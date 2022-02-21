@@ -66,3 +66,8 @@ ul{
     color: azure;
     font-weight: bold;
 }
+li a {
+    color: azure;
+    text-align: center;
+    background-attachment: fixed;
+}
