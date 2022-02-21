@@ -71,8 +71,10 @@ li a {
     text-align: center;
     background-attachment: fixed;
 }
-a{
-    color: black;
+a.nav-link.dropdown-toggle{
+    color: white;
     font-size: 80%;
     font-weight: bold;
+    background: grey;
+    padding-bottom: 5px;
 }
