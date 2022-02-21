@@ -85,7 +85,7 @@ a.nav-item.dropdown{
     background-attachment: fixed;
     font-weight: bold;
 }
-a:hover{
+a:active{
     background: grey;
     background-attachment: fixed;
     font-weight: 5px;
