@@ -7,11 +7,19 @@ body{
     background-attachment: fixed;
     background-size: 100% 100%;
 }
+header{
+    background-color: greenyellow;
+}
 div#werni{
     background: url('picture/Claaslogo.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
-    
+}
+h3{
+    color:white;
+    font-family: "trecbuchet MS";
+    text-align: center;
+    text-shadow: 2px 2px 2px black;
 }
 
 .nav-link.dropdown-toggle{
