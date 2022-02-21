@@ -15,6 +15,16 @@ div#werni{
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
+div#tkrt{
+    background: url('picture/ktrt.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+div#kmbn{
+    background: url('picture/kmbn.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
 h3{
 
     font-family: "trecbuchet MS";
