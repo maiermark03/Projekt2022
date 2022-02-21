@@ -15,18 +15,22 @@ div#werni{
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
+td{
+    padding: 100%;
+}
+
 div#tkrt{
     background: url('picture/tkrt.jpg');
     background-repeat: no-repeat;
 
-    background-size: 200% 250%;
+    background-size: 100% 100%;
 
 }
 div#kmbn{
     background: url('picture/kmbn.jpg');
     background-repeat: no-repeat;
 
-    background-size: 200% 250%;
+    background-size: 100% 100%;
     
 }
 h3{
