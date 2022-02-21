@@ -22,14 +22,14 @@ div#tkrt{
     background-repeat: no-repeat;
     
     background-size: 100% 100%;
-    margin: 100%;
+    margin: 10%;
 }
 div#kmbn{
     background: url('picture/kmbn.jpg');
     background-repeat: no-repeat;
 
     background-size: 100% 100%;
-    
+    margin: 10%;
 }
 h3{
 
