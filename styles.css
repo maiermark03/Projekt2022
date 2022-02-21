@@ -71,3 +71,8 @@ li a {
     text-align: center;
     background-attachment: fixed;
 }
+a{
+    color: black;
+    font-size: 80%;
+    font-weight: bold;
+}
