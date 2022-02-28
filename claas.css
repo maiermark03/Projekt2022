@@ -20,8 +20,8 @@ div#werni{
 div#tkrt{
     background: url('picture/tkrt.jpg');
     background-repeat: no-repeat;
-    max-width: max-content;
-    max-height: max-content;
+    max-width: 800px;
+    max-height: 500px;
     
     
 }
