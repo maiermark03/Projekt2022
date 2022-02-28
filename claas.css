@@ -73,3 +73,15 @@ a{
     font-weight: bolder;
     text-decoration: solid;
 }
+
+table {
+    border-collapse: collapse;
+    width: 100px;
+    height: 50px;
+  }
+  
+  td {
+    border: 1px solid;
+    text-align: center;
+    padding: 8px;
+  }
