@@ -20,17 +20,18 @@ div#werni{
 div#tkrt{
     background: url('picture/tkrt.jpg');
     background-repeat: no-repeat;
+    max-width: max-content;
+    max-height: max-content;
     
-    background-size: 100% 100%;
-    margin: 10%;
+    
 }
 div#kmbn{
     background: url('picture/kmbn.jpg');
     background-repeat: no-repeat;
-
-    background-size: 100% 100%;
-    margin: 10%;
+    max-width: max-content;
+    max-height: max-content;
 }
+
 h3{
 
     font-family: "trecbuchet MS";
