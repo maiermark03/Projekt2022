@@ -21,6 +21,8 @@ div#werni{
 div#tkrt{
     background: url('picture/tkrt.jpg');
     background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
     width: 800px;
     height: 500px;
     margin:auto;
