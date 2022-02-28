@@ -20,16 +20,16 @@ div#werni{
 div#tkrt{
     background: url('picture/tkrt.jpg');
     background-repeat: no-repeat;
-    max-width: 800px;
-    max-height: 500px;
+    width: 800px;
+    height: 500px;
     
     
 }
 div#kmbn{
     background: url('picture/kmbn.jpg');
     background-repeat: no-repeat;
-    max-width: max-content;
-    max-height: max-content;
+    width: 1000px;
+    height: 700px;
 }
 
 h3{
