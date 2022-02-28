@@ -22,7 +22,8 @@ div#tkrt{
     background: url('picture/tkrt.jpg');
     background-repeat: no-repeat;
     background-size: 100%;
-    margin:auto;
+    width: 400px;
+    height: 350px;
     
     
 }
