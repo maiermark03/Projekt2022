@@ -17,11 +17,12 @@ div#werni{
 
 }
 
+
 div#tkrt{
     background: url('picture/tkrt.jpg');
     background-repeat: no-repeat;
-    width: 1800px;
-    height: 1500px;
+    width: 800px;
+    height: 500px;
     margin:auto;
     
     
@@ -29,8 +30,8 @@ div#tkrt{
 div#kmbn{
     background: url('picture/kmbn.jpg');
     background-repeat: no-repeat;
-    width: 1800px;
-    height: 1500px;
+    width: 800px;
+    height: 500px;
     margin:auto;
 }
 
