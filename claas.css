@@ -8,11 +8,13 @@ body{
     background-size: 100% 100%;
 }
 header{
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background: url('picture/Claaslogo.jpg');
+    background-color: aliceblue;
 }
 
+div#werni{
+    background-image: url('picture/Claaslogo.jpg');
+    background-repeat: no-repeat;
+}
 
 
 div#tkrt{
@@ -21,9 +23,8 @@ div#tkrt{
     background-size: 100%;
     width: 400px;
     height: 350px;
-    
-    
 }
+
 div#kmbn{
     background: url('picture/kmbn.jpg');
     background-repeat: no-repeat;
@@ -31,7 +32,9 @@ div#kmbn{
     height: 500px;
     margin:auto;
 }
-
+p{
+    background-color: rgba(127, 153, 88, 0.5);
+}
 
 
 h3{
@@ -68,15 +71,3 @@ a{
     font-weight: bolder;
     text-decoration: solid;
 }
-
-table {
-    border-collapse: collapse;
-    width: 100px;
-    height: 50px;
-  }
-  
-  td {
-    border: 1px solid;
-    text-align: center;
-    padding: 8px;
-  }
