@@ -27,10 +27,16 @@ p{
 }
 
 h3{
-
     font-family: "trecbuchet MS";
     text-align: center;
     text-shadow: 2px 2px 2px rgb(150, 207, 16);
+}
+ul{
+    background-size: 20px;
+    background-color: #288825;
+    background-attachment: fixed;
+    color: azure;
+    font-weight: bold;
 }
 
 .nav-link.dropdown-toggle{
