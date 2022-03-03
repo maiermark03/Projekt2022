@@ -85,7 +85,7 @@ a.nav-pills{
     background-attachment: fixed;
     font-weight: bold;
 }
-a:active{
+a.active{
     background: grey;
     background-attachment: fixed;
     font-weight: 5px;

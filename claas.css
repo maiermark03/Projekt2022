@@ -59,8 +59,10 @@ a.nav-pills{
     font-weight: bold;
 }
 
-a.dropdown-item{
-    color:#050404
+a.active{
+    background: grey;
+    background-attachment: fixed;
+    font-weight: 5px;
 }
 
 a.dropdown-menu.show{
