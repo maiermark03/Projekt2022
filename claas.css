@@ -39,24 +39,32 @@ ul{
     font-weight: bold;
 }
 
-.nav-link.dropdown-toggle{
+a.nav-link.dropdown-toggle{
     color: black;
     font-size: 100%;
     font-weight: bolder;
     background: #b9eea4e0;
 }
 
-.nav-item.dropdown{
+a.nav-item.dropdown{
     color:black;
     font-size: 80%;
     background: white;
     padding-bottom: 5px;
 }
 
-.nav-pills{
+a.nav-pills{
     background: snow;
     background-attachment: fixed;
     font-weight: bold;
+}
+
+a.dropdown-item{
+    color:#050404
+}
+
+a.dropdown-menu.show{
+    background-color: #b9eea4e0;
 }
 
 a:hover{

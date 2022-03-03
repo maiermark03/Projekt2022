@@ -80,7 +80,7 @@ a.nav-item.dropdown{
     background: white;
     padding-bottom: 5px;
 }
-.nav-pills{
+a.nav-pills{
     background: snow;
     background-attachment: fixed;
     font-weight: bold;
