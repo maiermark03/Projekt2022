@@ -64,9 +64,13 @@ a.active{
     background-attachment: fixed;
     font-weight: 5px;
 }
+a.dropdown-item{
+    background-color: #288825;
+    color:aliceblue;
+}
 
 a.dropdown-menu.show{
-    background-color: #b9eea4e0;
+    background-color: #50883a;
 }
 
 a:hover{
