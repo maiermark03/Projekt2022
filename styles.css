@@ -68,12 +68,20 @@ ul{
     font-weight: bold;
 }
 
-a.nav-link.dropdown-toggle{
+div.nav-link.dropdown-toggle{
     color: black;
     font-size: 100%;
     font-weight: bolder;
-    background: #b9eea4e0;
+    background: #c9ffb4e0;
+    background-color: #81d460e0;
 }
+a.nav-link{
+    color: black;
+    font-size: 100%;
+    font-weight: bolder;
+    background: #84c36be5;
+}
+
 a.nav-item.dropdown{
     color:black;
     font-size: 80%;
