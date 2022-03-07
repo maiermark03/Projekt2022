@@ -2,7 +2,7 @@ body{
     font-family: arial;
     font-size: 100%;
     color: #050404;
-    background: url('picture/.jpg');
+    background: url('picture/gri10.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: 100% 100%;
@@ -12,7 +12,7 @@ header{
     background-color: aliceblue;
 }
 
-div#werni{
+div#wern{
     background-image: url('picture/Grimmelogo.jpg');
     background-repeat: no-repeat;
 }
