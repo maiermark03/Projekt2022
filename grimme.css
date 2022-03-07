@@ -1,3 +1,22 @@
+body{
+    font-family: arial;
+    font-size: 100%;
+    color: #050404;
+    background: url('picture/.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+header{
+    background-color: aliceblue;
+}
+
+div#werni{
+    background-image: url('picture/Grimmelogo.jpg');
+    background-repeat: no-repeat;
+}
+
 ul{
     background-size: 20px;
     background-color: #bce7bb;
