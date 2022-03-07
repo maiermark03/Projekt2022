@@ -1,37 +1,139 @@
 <!DOCTYPE html>
 <html lang="HUN">
 <head>
-  <title>Claas.com</title>
+  <title>Grimme.com</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js"></script>
+  <style>
+    table {
+      font-family: arial, sans-serif;
+      border-collapse: collapse;
+      width: 10cm;
+      height: 5cm;
+    }
+    
+    td, th {
+      border: 1px solid #dddddd;
+      text-align: center;
+      padding: 8px;
+    }
+    
+    tr:nth-child(even) {
+      background-color: #dddddd;
+    }
+  </style>
 </head>
 <body>
 
-<div class="jumbotron text-center">
-  <h1>My First Bootstrap Page</h1>
-  <p>Resize this responsive page to see the effect!</p> 
-</div>
+
+  <header>
+    <div id="werni" class="jumbotron text-center">
+      <h3>Köszöntelek. A Grimme gépeket ezen a linken megnézhated!</h3>
+      <h5>A link csak bátran kattints:<a href="https://www.grimme.com/de/products">www.grimme.hu!</a> </h5> 
+    </div>
+  </header>
   
 <div class="container">
   <div class="row">
-    <div class="col-sm-4">
-      <h3>Column 1</h3>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
-      <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
-    </div>
-    <div class="col-sm-4">
-      <h3>Column 2</h3>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
-      <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
-    </div>
-    <div class="col-sm-4">
-      <h3>Column 3</h3>        
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
-      <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
-    </div>
+    <table class="table">
+      <div>
+        <h3>Burgonya Betakarítás:</h3>
+      
+        <thead>
+          <tr>
+            <th>ELVÁLASZTÓ TECHNOLÓGIA</th>
+            <th>ÜLTETÉSI TECHNOLÓGIA</th>
+            <th>TALAJMŰVELÉS</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="col-sm-4">
+              <p>A talaj munkállatok: FONTOS!! a talaj porhanyóssága.</p>
+            </td>
+            <td class="col-sm-4">
+              <p>Az ültetés csak is az erre a célra kitalált eszközzel és géppel lehetséges a hatékony és minőségi munkáért!</p>
+            </td>
+            <td class="col-sm-4">
+              <p>A talaj átmozgatása ültetés után elengedhetetlen a szelős talaj miatt!</p>
+            </td>
+          </tr>
+          <tr>
+            <td><img src="picture/gri1.jpg"></td>
+            <td><img src="picture/gri2.jpg"></td>
+            <td><img src="picture/gri3.jpg"></td>
+          </tr>
+        </tbody>
+      </table>
+      <table class="table">
+        <thead>
+          <tr>
+            <th>BETAKARÍTÁS ELŐKÉSZÍTÉSE</th>
+            <th>BETAKARÍTÁSI TECHNOLÓGIA</th>
+            <th>ÖNJÁRÓ BETAKARÍTÓGÉP</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="col-sm-4">
+              <p>A betakarítás elött tüntessük el a kemény szár maradványokat ezt az önjáró gépek elvégzik maguktól!</p>
+            </td>
+            <td class="col-sm-4">
+              <p>A traktor után kötött vontatott betakarítás!</p>
+            </td>
+            <td class="col-sm-4">
+              <p>A betakarítás könnyítése az önjáró betakarítógépek segítenek!</p>
+            </td>
+          </tr>
+          <tr>
+            <td><p>A link csak a rakodókról:<a href="https://www.claas.hu/gepek/gepek/teleszkopos-rakodok">Rakodók.</a></p></td>
+            <td><p>A link csak a eszközökről:<a href="https://axial.claas.com/gepek/gepek/szalastakarmany-betakaritogepek">Eszközök.</a></p></td>
+            <td><p>A link csak a bálázókról:<a href="https://axial.claas.com/gepek/gepek/balazok">Bálázók.</a></p></td>
+          </tr>
+          <tr>
+            <td><img src="picture/gri4.jpg"></td>
+            <td><img src="picture/gri5.jpg"></td>
+            <td><img src="picture/gri6.jpg"></td>
+          </tr>
+        </tbody>
+      </table>
+      <table class="table">
+        <div>
+          <h3>Cukorrépa Betakarítás:</h3>
+        
+          <thead>
+            <tr>
+              <th>VETŐTECHNOLÓGIA</th>
+              <th>BETAKARÍTÁSI TECHNOLÓGIA</th>
+              <th>ÖNJÁRÓ BETAKARÍTÓGÉP</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td class="col-sm-4">
+                <p>Az ületése igen speciális vetőgéppel hajtható végre!</p>
+              </td>
+              <td class="col-sm-4">
+                <p>A traktor után kötött vontatott betakarítás!</p>
+              </td>
+              <td class="col-sm-4">
+                <p>A betakarítás könnyítése az önjáró betakarítógépek segítenek!</p>
+              </td>
+            </tr>
+            <tr>
+              <td><img src="picture/gri7.jpg"></td>
+              <td><img src="picture/gri8.jpg"></td>
+              <td><img src="picture/gri9.jpg"></td>
+            </tr>
+          </tbody>
+        </table>
+      
     <div class="container">
       <ul class="nav nav-pills">
         <li class="nav-item dropdown">
