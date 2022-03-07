@@ -1,0 +1,63 @@
+ul{
+    background-size: 20px;
+    background-color: #bce7bb;
+    background-attachment: fixed;
+    color: azure;
+    font-weight: bold;
+}
+
+a.nav-link.dropdown-toggle{
+    color: black;
+    font-size: 100%;
+    font-weight: bolder;
+    background: #84c36be5;
+}
+a.nav-link{
+    color: black;
+    font-size: 100%;
+    font-weight: bolder;
+    background: #84c36be5;
+}
+
+a.nav-item.dropdown{
+    color:black;
+    font-size: 80%;
+    background: white;
+    padding-bottom: 5px;
+}
+
+a.nav-pills{
+    background: snow;
+    background-attachment: fixed;
+    font-weight: bold;
+}
+
+a.active{
+    background: grey;
+    background-attachment: fixed;
+    font-weight: 5px;
+}
+a.dropdown-item{
+    color: black;
+    padding: 2.5px 15px;
+}
+
+div.dropdown-menu.show{
+    background: white;
+    color: black;
+    font-size: 10px arial;
+    margin: 1.25px 0px 0px;
+    padding: 5px 0px;
+}
+
+a:hover{
+    background: grey;
+    background-attachment: fixed;
+    font-weight: 5px;
+}
+
+a{
+    color: white;
+    font-weight: bolder;
+    text-decoration: solid;
+}
