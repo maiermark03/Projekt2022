@@ -18,6 +18,16 @@ h5{
     color:aliceblue;
     background:black;
 }
+p{
+    color: aliceblue;
+}
+ul{
+    background-size: 20px;
+    background-color: #288825;
+    background-attachment: fixed;
+    color: azure;
+    font-weight: bold;
+}
 div.nav-link.dropdown-toggle{
     color: black;
     font-size: 100%;
