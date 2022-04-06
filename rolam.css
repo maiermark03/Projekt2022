@@ -1,0 +1,10 @@
+
+body{
+    font-family: arial;
+    font-size: 100%;
+    color: #050404;
+    background: url('picture/axial.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
