@@ -8,3 +8,13 @@ body{
     background-attachment: fixed;
     background-size: 100% 100%;
 }
+h1, h2{
+    font-family: "trecbuchet MS";
+    text-align: center;
+    color:aliceblue;
+    text-shadow: 2px 2px 2px rgb(40, 48, 22);
+}
+h5{
+    color:aliceblue;
+    background-color: chartreuse;
+}
