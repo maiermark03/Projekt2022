@@ -8,6 +8,13 @@ body{
     background-attachment: fixed;
     background-size: 100% 100%;
 }
+div#wapper{
+    background: url('picture/kp.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    padding: 10%;
+}
 h1, h2{
     font-family: "trecbuchet MS";
     text-align: center;
